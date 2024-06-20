@@ -156,7 +156,7 @@ const initialState = {
     },
   ],
   userAns: null,
-  index: 14,
+  index: 0,
   points: 0,
   highscore: 0,
   secondsRemaining: null,
